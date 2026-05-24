@@ -18,7 +18,7 @@ An open-source mental health platform based on AI affective computing and positi
 
 | 新闻界面 | AI 对话 | 编辑笔记 |
 |:---:|:---:|:---:|
-| ![新闻界面](新闻界面.jpg) | ![AI对话](Ai对话聊天（甚至花钱找人做的，那时候没有deepseek）.jpg) | ![编辑笔记](编辑笔记.jpg) |
+| ![新闻界面](新闻界面.jpg) | ![AI对话](Ai对话聊天（甚至花钱找人做的，那时候没有deepseek）.jpg) |
 
 | 养成系统 | 设置界面 |
 |:---:|:---:|
